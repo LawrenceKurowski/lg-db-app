@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lg-db-app/static/css/main.0f64129f.css",
+    "main.js": "/lg-db-app/static/js/main.bd2d2901.js",
+    "static/js/453.d069e7a1.chunk.js": "/lg-db-app/static/js/453.d069e7a1.chunk.js",
+    "static/media/logo.svg": "/lg-db-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/lg-db-app/index.html",
+    "main.0f64129f.css.map": "/lg-db-app/static/css/main.0f64129f.css.map",
+    "main.bd2d2901.js.map": "/lg-db-app/static/js/main.bd2d2901.js.map",
+    "453.d069e7a1.chunk.js.map": "/lg-db-app/static/js/453.d069e7a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0f64129f.css",
+    "static/js/main.bd2d2901.js"
+  ]
+}
